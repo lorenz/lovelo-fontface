@@ -1,0 +1,24 @@
+{
+  "name": "lovelo-fontface",
+  "version": "1.0.0",
+  "authors": [
+    "Lorenz Brun <lorenz@dolansoft.org>"
+  ],
+  "main": "css/lovelo-fontface.css",
+  "keywords": [
+    "font",
+    "lovelo",
+    "fontface",
+    "less",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.fontfabric.com/lovelo-font/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
