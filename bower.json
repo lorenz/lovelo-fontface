@@ -13,6 +13,11 @@
     "css"
   ],
   "license": "MIT",
+  "description": "A bower package for the Lovelo font",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lorenz/lovelo-fontface"
+  },
   "homepage": "http://www.fontfabric.com/lovelo-font/",
   "ignore": [
     "**/.*",
